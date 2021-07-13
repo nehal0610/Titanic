@@ -1,1 +1,1 @@
-# Titanic
+# Titanic Kaggle Project
